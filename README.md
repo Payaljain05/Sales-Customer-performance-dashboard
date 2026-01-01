@@ -6,7 +6,7 @@ The objective is to deliver **executive-level insights** through interactive Pow
 
 The dashboard is designed for **business decision-makers** to quickly identify top-performing products, customers, regions, and potential risk areas.
 
-**Live Power Bi Dashbord: **
+## Live Power Bi Dashbord: 
 View the interactive report here:
 https://app.powerbi.com/groups/me/reports/53841e72-a62f-43c1-b95a-92071935e6b4/c54e427f32224843836e?experience=power-bi
 ---
