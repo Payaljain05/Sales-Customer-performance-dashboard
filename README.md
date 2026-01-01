@@ -55,6 +55,7 @@ All tables are connected using a **star schema** for optimal performance.
 - Growth is strong YoY but depends on a limited set of products and regions
 
 **Overview Dashboard**
+
 ![Overview Dashboard Preview](overview.png)
 
 ---
@@ -75,7 +76,7 @@ All tables are connected using a **star schema** for optimal performance.
 - Revenue contribution breakdown
 
 **Product & Sales Dashboard**
-![Product & Sales Dashboard](Sales&Product)
+![Product & Sales Dashboard](Sales&Product.png)
 
 ---
 
@@ -96,7 +97,7 @@ All tables are connected using a **star schema** for optimal performance.
 - Interactive filters for country and employee
 
 **Customer & Regional Dashboard**
-![Customer & Regional Dashboard](Customer&Regional)
+![Customer & Regional Dashboard](Customer&Regional.png)
 
 ---
 
