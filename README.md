@@ -76,6 +76,7 @@ All tables are connected using a **star schema** for optimal performance.
 - Revenue contribution breakdown
 
 **Product & Sales Dashboard**
+
 ![Product & Sales Dashboard](Sales&Product.png)
 
 ---
@@ -97,6 +98,7 @@ All tables are connected using a **star schema** for optimal performance.
 - Interactive filters for country and employee
 
 **Customer & Regional Dashboard**
+
 ![Customer & Regional Dashboard](Customer&Regional.png)
 
 ---
