@@ -8,7 +8,9 @@ The dashboard is designed for **business decision-makers** to quickly identify t
 
 ## Live Power Bi Dashbord: 
 View the interactive report here:
+
 https://app.powerbi.com/groups/me/reports/53841e72-a62f-43c1-b95a-92071935e6b4/c54e427f32224843836e?experience=power-bi
+
 ---
 
 ## Dataset Description
@@ -44,6 +46,7 @@ All tables are connected using a **star schema** for optimal performance.
 ## Dashboard Pages & Insights
 
 ### 1. Overview
+
 **Purpose:** High-level business snapshot
 
 **Insights:**
@@ -51,9 +54,13 @@ All tables are connected using a **star schema** for optimal performance.
 - Sales peak in specific months, indicating seasonal demand
 - Growth is strong YoY but depends on a limited set of products and regions
 
+**Overview Dashboard**
+![Overview Dashboard Preview](overview.png)
+
 ---
 
 ### 2. Product & Sales Analysis
+
 **Purpose:** Product performance and profitability
 
 **Insights:**
@@ -67,20 +74,29 @@ All tables are connected using a **star schema** for optimal performance.
 - Quantity sold vs profit analysis
 - Revenue contribution breakdown
 
+**Product & Sales Dashboard**
+![Product & Sales Dashboard](Sales&Product)
+
 ---
 
 ### 3.Customer & Regional Analysis
+
 **Purpose:** Customer dependency and regional reach
+
 **Insights:**
 - USA holds the largest customer base
 - Euro+ Shopping Channel is the top customer by orders
 - Top customers contribute a disproportionate share of revenue
 - Sales rep performance varies significantly
+
 **Features:**
 - Top customers by orders
 - Revenue by sales representatives
 - Country-wise customer distribution
 - Interactive filters for country and employee
+
+**Customer & Regional Dashboard**
+![Customer & Regional Dashboard](Customer&Regional)
 
 ---
 
@@ -94,6 +110,13 @@ All tables are connected using a **star schema** for optimal performance.
 - Top Selling Product  
 
 DAX measures are optimized using **context-aware calculations** without creating unnecessary physical tables.
+
+---
+
+## Tooltips & Interactivity
+Context-aware tooltips are used across visuals to reveal revenue, profit, profit margin, quantity sold, and top contributing entities without cluttering the dashboard.
+
+Slicers and cross-filtering enable dynamic exploration of insights across all pages.
 
 ---
 
